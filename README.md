@@ -9,6 +9,6 @@
 ## как работает блокировка наглядно
 
 Без блокировки
-![This is an image](https://github.com/nemo229/Blockrusites/blob/main/2022-05-19_13-51.png)
+![This is an image](https://github.com/nemo229/Blockrusites/blob/main/noblock.png)
 С блокировкой
-![This is an image](https://github.com/nemo229/Blockrusites/blob/main/2022-05-19_13-51_1.png)
+![This is an image](https://github.com/nemo229/Blockrusites/blob/main/block.png)
