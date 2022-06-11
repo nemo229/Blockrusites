@@ -12,3 +12,10 @@
 ![This is an image](https://github.com/nemo229/Blockrusites/blob/main/noblockk.png)
 С блокировкой
 ![This is an image](https://github.com/nemo229/Blockrusites/blob/main/block.png)
+
+## Сайт чтобы ddos российску пропаганду(предупреджение сайт грузит ваш пк, но зато ddos российская пропаганда)
+https://stop-russian-desinformation.near.page/
+
+![This is an image](https://github.com/nemo229/Blockrusites/blob/main/LgfmBPbfvcQ.jpg)
+## Слава Украине! Героям Слава!
+![This is an image](https://github.com/nemo229/Blockrusites/blob/main/schema_org_16_9.jpg)
