@@ -13,7 +13,7 @@
 С блокировкой
 ![This is an image](https://github.com/nemo229/Blockrusites/blob/main/block.png)
 
-## Сайт чтобы ddos российску пропаганду(предупреджение сайт грузит ваш пк, но зато ddos российская пропаганда)
+## Сайт чтобы ddos российску пропаганду(предупреджение сайт грузит ваш пк, но зато ddos российской пропаганды)
 https://stop-russian-desinformation.near.page/
 
 ![This is an image](https://github.com/nemo229/Blockrusites/blob/main/LgfmBPbfvcQ.jpg)
